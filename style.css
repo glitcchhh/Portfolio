@@ -279,11 +279,6 @@
     80% {
         content: "Cyber security Enthusiast";
     }
-  
-    81%,
-    100% {
-        content: "UI/UX Designer";
-    }
   }
   
   @keyframes typing {
